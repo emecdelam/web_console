@@ -2,7 +2,7 @@
 // @name         Console
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Changes text color to red when life bar is low
+// @description  Integrated console for custom command, usefull when there is no access to the default console
 // @author       You
 // @match        *://*/*
 // @grant        none
