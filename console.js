@@ -2,7 +2,7 @@
 // @name         Console
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Integrated console for custom command, usefull when there is no access to the default console
+// @description  Web console
 // @author       You
 // @match        *://*/*
 // @grant        none
